@@ -1,0 +1,28 @@
+name: by_MPolG
+favicon: null
+layout_spectrum: 0.0466962696518749
+typography_spectrum: 0.35489461617544293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8981858999468386
+  lightness: 0.5073777055367827
+  saturation: 0.4223494855687022
+  rhythmicContrast: 0.7068802353460342
+purpose: []
